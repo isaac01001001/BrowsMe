@@ -1,0 +1,16 @@
+WebBrowser/
+├── main.cpp
+├── browserwindow.h
+├── browserwindow.cpp
+├── webbrowser.pro
+└── resources/
+
+WebBrowser/main.cpp
+
+WebBrowser/browserwindow.h
+
+WebBrowser/browserwindow.cpp
+
+WebBrowser/webbrowser.pro
+
+WebBrowser/resources/
